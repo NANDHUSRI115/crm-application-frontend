@@ -1,0 +1,6 @@
+.card1{
+    background: whitesmoke;
+  }
+  .card1:hover {
+    background:lightgray;
+  }
